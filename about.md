@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+모의해킹 컨설턴트를 희망진로로 삼고 있는 학생입니다.
 
-### More Information
+### 무엇을 올리나요?
 
-A place to include any other types of information that you'd like to include about yourself.
+- Algorithm Test
+- 진행중인 프로젝트
+- 프로그래밍 언어 메모장
+- 책 리뷰
 
-### Contact me
+등의 게시물을 올립니다
 
-[email@domain.com](mailto:email@domain.com)
+### 연락주세요!
+
+[skyul0217@gmail.com](mailto:skyul0217@gmail.com)
